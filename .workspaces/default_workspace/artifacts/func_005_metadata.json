@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "fMemory",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "fStorage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"005_变量数据存储和作用域.sol": "func_005"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"005_变量数据存储和作用域.sol": {
+			"keccak256": "0xbebf46ecfd20f1d4fdf0a1558685d5512b45eefa063ba870f512c494dd241cc5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7cb0c47c612bcb93067a28a7e5a8e1533abc0e0e78614bbfa59de7c190508283",
+				"dweb:/ipfs/QmWrKfkUDBnrYCexMc4u3QkWfpJCzq5NyQFcqvbHZxuYeS"
+			]
+		}
+	},
+	"version": 1
+}

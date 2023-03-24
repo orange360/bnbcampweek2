@@ -1,0 +1,41 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Wrappers over Solidity's arithmetic operations with added overflow checks.  * Arithmetic operations in Solidity wrap on overflow. This can easily result in bugs, because programmers usually assume that an overflow raises an error, which is the standard behavior in high level programming languages. `SafeMath` restores this intuition by reverting the transaction when an operation overflows.  * Using this library instead of the unchecked operations eliminates an entire class of bugs, so it's recommended to use it always. 在Solidity的算术操作上添加溢出检查的包装器。 solid中的算术运算在溢出时自动包装。这很容易导致bug， 因为程序员通常假设溢出会引发错误，这是高级编程语言中的标准行为。 当操作溢出时，' SafeMath '通过恢复事务来恢复这种直觉。 使用这个库而不是未检查的操作可以消除整个类的bug，所以建议始终使用它。",
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"camp/interface.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"camp/interface.sol": {
+			"keccak256": "0x0ec1407979144050b539099472bcd8d25606620d3e5214d9627182f3b20f933b",
+			"urls": [
+				"bzz-raw://6be02deb96cb50a073c72d898b491ff38aa12a17d4f88c1091218960dedfaa03",
+				"dweb:/ipfs/QmSw5z1sH1WFeEKnFmghUngdFKexYBpze77bEc8mwv5NhN"
+			]
+		}
+	},
+	"version": 1
+}
